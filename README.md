@@ -1,5 +1,3 @@
-Here’s a refined `README.md` tailored for GitHub, with a professional layout, badges, and sections optimized for public visibility. It assumes your project is named "Online Library Management System" (or "student-registration" as per your output—I’ll use "library-management" for consistency with the assignment context). This version includes GitHub-specific features like badges and links, while still meeting your assignment needs.
-
 ---
 
 # Online Library Management System
